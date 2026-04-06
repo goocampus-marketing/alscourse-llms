@@ -1,0 +1,16 @@
+# alscourse.com
+> GooCampus ALS Course — India's only ERC-accredited Advanced Life Support
+> training, recognised in the UK and Australia.
+
+## Course
+- Title: ERC-Accredited ALS Course India
+- URL: https://alscourse.com/
+- Description: 2-day hands-on Advanced Life Support course accredited by the European Resuscitation Council (ERC). Recognised by UK NHS and Australian healthcare employers. Valid for 3 years. Price: GBP 650. Location: Bangalore.
+- Instructors: Martin Pearce (ERC Faculty), Matthew Donnelly (Course Director)
+- Target audience: International Medical Graduates (IMGs), doctors preparing for PLAB, NHS roles, AMC pathway, or emergency medicine positions.
+
+## Organisation
+- Name: GooCampus
+- Website: https://goocampusglobal.com
+- Contact: neha@goocampus.in
+- Location: Bengaluru, Karnataka, India
